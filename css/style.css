@@ -1,3 +1,7 @@
+@import 'cards.css';
+@import 'header.css';
+@import 'logo.css';
+
 * {
     box-sizing: border-box;
 }

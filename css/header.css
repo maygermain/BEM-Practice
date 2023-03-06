@@ -1,0 +1,9 @@
+.header {
+    background-color: black;
+    padding: 10px 50px;
+}
+
+.footer{
+    text-align: right; 
+    padding: 10px 50px;
+}
